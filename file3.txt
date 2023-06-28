@@ -1,0 +1,2 @@
+added first line in file3
+added second line to file3
